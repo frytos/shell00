@@ -10,14 +10,14 @@
 *.sass-cache
 
 # OS or Editor folders
-`.DS_Store`
-`.Trashes`
-`._*`
+.DS_Store
+.Trashes
+._*
 Thumbs.db
 
 # Local gitignore: .gitignore
-`.cache`
-`.project`
-`.settings`
-`.tmproj`
+.cache
+.project
+.settings
+.tmproj
 nbproject
