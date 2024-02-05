@@ -1,0 +1,23 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+`.DS_Store`
+`.Trashes`
+`._*`
+Thumbs.db
+
+# Local gitignore: .gitignore
+`.cache`
+`.project`
+`.settings`
+`.tmproj`
+nbproject
